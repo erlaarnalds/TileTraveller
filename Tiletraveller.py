@@ -72,6 +72,6 @@ while (x!=3 or y!=3):
                 string=input('Direction: ')
 
     x,y=travel(string.lower(), x, y)
-
+    print("T")
 
 print('Victory!')
